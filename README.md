@@ -4,10 +4,10 @@
 
 ## I'm a Software Engineer 
 
-- 👨‍💻 I’m currently working with Python, C++ and Django, but i also have skills in Java , C++ and C# and many more.
-- 📚 I’m currently interested about everything of Python and specially web3 😅
+- 👨‍💻 I’m currently working with C++, Python, C# and Java., but I also have skills in many other technologies.
+- 📚 I’m currently interested about web3 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to anykind of games.
+- ⚡ Fun fact: I love to any kind of games.
 
 ---
 
