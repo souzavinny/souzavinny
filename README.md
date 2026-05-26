@@ -267,17 +267,18 @@ My path spans biometrics and computer vision research, enterprise API architectu
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=souzavinny&theme=tokyonight&hide_border=true&background=1A1B27" />
+    <img src="https://streak-stats.demolab.com?user=souzavinny&theme=tokyonight&hide_border=true&background=1A1B27&cache_seconds=86400" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=souzavinny&theme=tokyonight&hide_border=true&bg_color=1A1B27&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzavinny&theme=tokyonight&hide_border=true&bg_color=1A1B27&layout=compact&langs_count=10" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=souzavinny&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souzavinny&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=BB9AF7&point=9ECE6A" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souzavinny&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=BB9AF7&point=9ECE6A" alt="Contribution Graph" />
 </p>
 
 ---
