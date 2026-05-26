@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/marcus-vini-souza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/mvinnysl"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://medium.com/@souzavinny"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://medium.com/@souza.mvsl"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:souza.mvsl@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=souzavinny&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" />
 </p>
@@ -152,7 +152,7 @@ My path spans biometrics and computer vision research, enterprise API architectu
 - 🎥 **YouTube** — AA platform tutorial series, reducing support load via self-serve content
 - 📚 **Udemy** — 2 courses authored during Cartesi DevRel tenure
 
-> 9+ long-form technical articles across EN / JP / PT. Find them on [Medium](https://medium.com/@souzavinny).
+> 9+ long-form technical articles across EN / JP / PT. Find them on [Medium](https://medium.com/@souza.mvsl).
 
 ---
 
